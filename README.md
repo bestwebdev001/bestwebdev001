@@ -17,12 +17,12 @@
 - Built interactive, real-time charts and maps visualizing proprietary data models.
 - Enhanced UX with performance-tuned **React components** and **responsive layouts**.
 
-#### 🧭 TONIT – React Native | Mapbox | Real-Time Communication
+#### 🧭 [TONIT](https://apps.apple.com/ca/app/tonit/id1321053644) – React Native | Mapbox | Real-Time Communication
 - Architected a community-driven motorcycle app with **Mapbox**-powered ride tracking.
 - Implemented real-time features with **WebSockets** and **Firebase** for messaging and group coordination.
 - Delivered a smooth, GPS-based mobile experience using **React Native** and native modules.
 
-#### 🩺 Vory Health – React Native | Healthcare | HIPAA-Compliant Mobile App
+#### 🩺 [Vory Health](https://play.google.com/store/apps/details?id=com.voyahealth.app) – React Native | Healthcare | HIPAA-Compliant Mobile App
 - Built a **patient-provider telehealth platform** with video calls, scheduling, and secure messaging.
 - Integrated native modules for notifications, camera, and secure file uploads.
 - Focused on performance and accessibility for a diverse user base.
@@ -89,7 +89,6 @@ _Patsnap · Jun 2012 – Apr 2014_
 ### 📬 Contact Me
 
 - ✉️ paul.a.thom.dev001@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/paul-a-t-1479b7327/)  
 - 🌍 Atlanta, Georgia
 
 ---
