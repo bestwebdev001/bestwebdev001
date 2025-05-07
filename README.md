@@ -3,46 +3,69 @@
 
 ---
 
-🚀 **12+ years** of building performant, scalable full-stack applications across web and mobile.  
-💡 Passionate about **React**, **React Native**, **Node.js**, and creating intuitive, high-performance UIs.  
-🌐 Focused on modern **JavaScript ecosystems**, cloud infrastructure, and clean, reusable code.  
-📍 Currently working at **NodeAsset** as a Senior Full-Stack React Developer.
+🚀 **12+ years** crafting performant, scalable full-stack applications for web and mobile.  
+💡 Passionate about **React**, **React Native**, **Node.js**, and building elegant, high-performance UIs.  
+🌐 Deep expertise in **modern JavaScript ecosystems**, cloud infrastructure, and clean architecture.  
+📍 Currently a Senior Full-Stack Developer at **NodeAsset**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧩 Featured Projects
 
-**Frontend**  
-`React.js` · `React Native` · `Next.js` · `Redux` · `React Query` · `Tailwind CSS` · `Material-UI` · `Styled Components` · `D3.js` · `Highcharts` · `React Router` · `Lottie` · `GSAP`
+#### 📊 [MainstreetData.com](https://mainstreetdata.com) – React | Data Visualization | Fintech
+- Developed advanced **financial analytics dashboards** using **D3.js** and **Highcharts**.
+- Built interactive, real-time charts and maps visualizing proprietary data models.
+- Enhanced UX with performance-tuned **React components** and **responsive layouts**.
 
-**Backend**  
-`Node.js` · `Express.js` · `GraphQL` · `Apollo Server` · `RESTful APIs` · `Django` · `Firebase Auth` · `JWT` · `OAuth2`
+#### 🧭 TONIT – React Native | Mapbox | Real-Time Communication
+- Architected a community-driven motorcycle app with **Mapbox**-powered ride tracking.
+- Implemented real-time features with **WebSockets** and **Firebase** for messaging and group coordination.
+- Delivered a smooth, GPS-based mobile experience using **React Native** and native modules.
 
-**Mobile**  
-`React Native` · `Expo` · `Swift` · `Kotlin` · `React Navigation`
+#### 🩺 Vory Health – React Native | Healthcare | HIPAA-Compliant Mobile App
+- Built a **patient-provider telehealth platform** with video calls, scheduling, and secure messaging.
+- Integrated native modules for notifications, camera, and secure file uploads.
+- Focused on performance and accessibility for a diverse user base.
 
-**Databases**  
-`MongoDB` · `PostgreSQL` · `MySQL` · `Redis`
+---
 
-**Testing**  
-`Jest` · `Cypress` · `React Testing Library` · `Enzyme`
+### 🛠️ Skills
 
-**DevOps & Cloud**  
-`AWS (Lambda, S3, Amplify)` · `Terraform` · `Docker` · `Kubernetes` · `CI/CD (GitHub Actions, Jenkins)` · `GCP`
+#### **Frontend**
+- `React.js` · `React Native` · `Next.js` · `Redux` · `React Query`  
+- `Tailwind CSS` · `Material-UI` · `Styled Components`  
+- `D3.js` · `Highcharts` · `GSAP` · `Lottie`
 
-**Monitoring & Analytics**  
-`Datadog` · `Sentry` · `Google Tag Manager` · `Firebase` · `Lighthouse`
+#### **Backend**
+- `Node.js` · `Express.js` · `GraphQL` · `Apollo Server`  
+- `Django` · `Firebase` · `REST APIs` · `OAuth2` · `JWT`
+
+#### **Mobile**
+- `React Native` · `Expo` · `Swift` · `Kotlin` · `React Navigation`
+
+#### **Databases**
+- `MongoDB` · `PostgreSQL` · `MySQL` · `Redis`
+
+#### **Testing**
+- `Jest` · `React Testing Library` · `Cypress` · `Enzyme`
+
+#### **DevOps & Cloud**
+- `AWS (Lambda, S3, Amplify)` · `Docker` · `Terraform`  
+- `Kubernetes` · `CI/CD (GitHub Actions, Jenkins)` · `GCP`
+
+#### **Monitoring & Analytics**
+- `Datadog` · `Sentry` · `Google Tag Manager` · `Firebase Analytics`
 
 ---
 
 ### 🚨 Key Achievements
 
-- ⚡ Reduced app load times by **25%** with lazy loading, code-splitting, and API optimizations.
-- 🔧 Built a **scalable component library** for web and mobile, speeding up frontend development by 20%.
-- 📈 Delivered **real-time dashboards** with D3.js, Highcharts, and WebSockets for financial analytics.
-- 🚀 Cut deployment time by **40%** by implementing CI/CD with Jenkins and Terraform.
-- 🧠 Built **AI-powered predictive UI interfaces** using React and Material-UI.
-- 📱 Integrated native Swift and Kotlin features for seamless mobile experiences in React Native apps.
+- ⚡ Reduced app load times by **25%** using lazy loading, code-splitting, and optimized APIs.
+- 🔧 Created a **cross-platform component library**, accelerating development by 20%.
+- 📈 Delivered real-time dashboards with **D3.js**, **Highcharts**, and WebSockets.
+- 🚀 Reduced deployment time by **40%** via automated CI/CD pipelines.
+- 🧠 Built **AI-enhanced UI experiences** for data-driven applications.
+- 📱 Bridged native mobile features in **React Native** for enhanced UX.
 
 ---
 
@@ -80,12 +103,4 @@ _Patsnap · Jun 2012 – Apr 2014_
 
 ---
 
-### ⚙️ Recent Projects (Add these manually if you'd like)
-
-- 🛒 **E-Commerce Platform** – Full-stack platform using React, React Native, Node.js, and MongoDB.
-- 📊 **Analytics Dashboard** – Real-time data visualizations with D3.js and React Native.
-- 🔐 **Auth Flow** – Secure login system using OAuth, Firebase Auth, JWT.
-
----
-
-✨ _Open to collaborating on innovative React/React Native projects, especially those with impact!_
+✨ _Open to collaborating on meaningful React/React Native projects that challenge the norm and drive real impact._
