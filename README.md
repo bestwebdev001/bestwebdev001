@@ -93,12 +93,19 @@ _Patsnap · Jun 2012 – Apr 2014_
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Project Summary
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+| Category             | Description                                                | Count |
+|----------------------|------------------------------------------------------------|-------|
+| 📱 **Mobile Apps**    | Built with React Native, Expo, native modules (iOS/Android) | 10    |
+| 💻 **Web Apps**       | Developed with React, Next.js, and data visualization tools | 6     |
+| 📡 **Real-Time Apps** | Featuring WebSockets, Firebase, and push notifications     | 5     |
+| 🗺️ **Map-Based Apps** | GPS-enabled apps using Mapbox, location services           | 4     |
+| 🔐 **Auth Systems**   | OAuth2, Firebase Auth, JWT login flows                     | 7     |
+| 📈 **Dashboards**     | Financial & operational dashboards with charts and graphs  | 5     |
+| ☁️ **Cloud Deployments** | Deployed via AWS, Terraform, CI/CD pipelines             | 8     |
+| 🧪 **Test Coverage**  | Projects with comprehensive Jest/Cypress test suites       | 6     |
+
 
 ---
 
