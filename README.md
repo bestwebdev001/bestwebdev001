@@ -71,11 +71,11 @@
 
 ### 🏢 Work Experience
 
-**Senior Full-Stack React Developer**  
+**Senior Software Engineer**  
 _NodeAsset · Dec 2021 – Present_
 
-**Senior React Frontend Engineer**  
-_Meta · Nov 2019 – Nov 2021_
+**Senior Full-Stack Engineer**  
+_FivePack · Nov 2019 – Nov 2021_
 
 **Full-Stack Engineer**  
 _Asure Software · Oct 2016 – Oct 2019_
