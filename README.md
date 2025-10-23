@@ -89,7 +89,7 @@ _Patsnap · Jun 2012 – Apr 2014_
 ### 📬 Contact Me
 
 - ✉️ paul.a.thom.dev001@gmail.com  
-- 🌍 Atlanta, Georgia
+- 🌍 Texas, U.S
 
 ---
 
@@ -97,14 +97,14 @@ _Patsnap · Jun 2012 – Apr 2014_
 
 | Category             | Description                                                | Count |
 |----------------------|------------------------------------------------------------|-------|
-| 📱 **Mobile Apps**    | Built with React Native, Expo, native modules (iOS/Android) | 5    |
-| 💻 **Web Apps**       | Developed with React, Next.js, and data visualization tools | 4     |
-| 📡 **Real-Time Apps** | Featuring WebSockets, Firebase, and push notifications     | 3     |
-| 🗺️ **Map-Based Apps** | GPS-enabled apps using Mapbox, location services           | 2     |
-| 🔐 **Auth Systems**   | OAuth2, Firebase Auth, JWT login flows                     | 6     |
-| 📈 **Dashboards**     | Financial & operational dashboards with charts and graphs  | 3     |
-| ☁️ **Cloud Deployments** | Deployed via AWS, Terraform, CI/CD pipelines             | 5     |
-| 🧪 **Test Coverage**  | Projects with comprehensive Jest/Cypress test suites       | 4     |
+| 💻 **Web Apps**       | Developed with React, Next.js, and data visualization tools | 5    |
+| 📱 **Mobile Apps**    | Built with React Native, Expo, native modules (iOS/Android) | 4    |
+| 📡 **Real-Time Apps** | Featuring WebSockets, Firebase, and push notifications      | 3    |
+| 🗺️ **Map-Based Apps** | GPS-enabled apps using Mapbox, location services            | 2    |
+| 🔐 **Auth Systems**   | OAuth2, Firebase Auth, JWT login flows                      | 6    |
+| 📈 **Dashboards**     | Financial & operational dashboards with charts and graphs   | 3    |
+| ☁️ **Cloud Deployments** | Deployed via AWS, Terraform, CI/CD pipelines             | 5    |
+| 🧪 **Test Coverage**  | Projects with comprehensive Jest/Cypress test suites        | 4    |
 
 
 ---
