@@ -34,7 +34,7 @@
 #### **Frontend**
 - `React.js` · `React Native` · `Next.js` · `Redux` · `React Query`  
 - `Tailwind CSS` · `Material-UI` · `Styled Components`  
-- `D3.js` · `Highcharts` · `GSAP` · `Lottie`
+- `D3.js` · `Highcharts` · `Mapbox` · `GSAP` · `Lottie`
 
 #### **Backend**
 - `Node.js` · `Express.js` · `GraphQL` · `Apollo Server`  
