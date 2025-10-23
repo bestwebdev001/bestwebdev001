@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul Thompson</h1>
-<h3 align="center">Senior React/React Native Full-Stack Developer | Atlanta, GA</h3>
+<h3 align="center">Senior React/React Native Full-Stack Developer | Texas, U.S</h3>
 
 ---
 
